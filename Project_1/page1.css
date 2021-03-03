@@ -1,0 +1,91 @@
+.title{
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Francois One', sans-serif;
+}
+.bono{
+  font-size: 25px;
+  font-weight: bold;
+}
+.sean{
+display: flex;
+justify-content: space-around;
+
+
+}
+.ben{
+
+}
+.alex{
+padding: 10px;
+
+}
+.sean a{
+  text-decoration: none;
+  color: white
+}
+.sean a:hover{
+  color: black
+}
+.beavis{
+  display: flex;
+  justify-content: space-around;
+  font-size: 38px;
+}
+.beavis a{
+  text-decoration: none;
+  color: black
+}
+.beavis a:hover{
+  color: #f2800f;
+}
+.shoe{
+text-align: left;
+font-size: 20px;
+}
+.e{
+  font-weight: bold;
+  font-size: 25px;
+}
+.size{
+  font-size: 21px;
+}
+.cart{
+  text-decoration: none;
+  color: black;
+  background-color: #f2800f;
+  border: solid;
+  border-width: medium;
+  border-color: grey;
+}
+.cart:hover{
+  color: black
+}
+.carts{
+  text-align: left;
+  font-size: 35px;
+  font-style: normal;
+}
+.vans{
+  text-align: left;
+  font-size: 30px
+}
+.g{
+  text-align: left;
+}
+.butthead{
+  text-align: left;
+  font-size: 25px;
+}
+.durst{
+  text-decoration: none;
+  color: black;
+  background-color: #f2800f;
+  border: solid;
+  border-width: medium;
+  border-color: grey
+}
+.fred{
+  font-size: 33px;
+}
